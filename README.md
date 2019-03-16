@@ -1,0 +1,2 @@
+# Price_Change_Notification_Bot
+The bot is developed to check on the price change of the products available in the cart that the user has added for future price slope.Now the price monitoring is done correspondingly. Once the product descends, the bot notifies with a voice message followed by a notification followed by an e-mail invitation along with the product link to purchase. In case of a price hike ,the voice message with a notification is sent to the customer. 
